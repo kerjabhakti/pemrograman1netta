@@ -1,6 +1,6 @@
 # pemrograman1netta
 Buatkan Modul praktikum pembuatan aplikasi sederhana (Studi Kasus) Bebas
-1. Chapter 01 : Pengantar instalasi dll + Readme [bobot 10]
+1. Chapter 01 : Pengantar instalasi dll (Tambah SSH key) + Readme [bobot 10]
 2. Chapter 02 : Codingan sederhana + Readme [bobot 10]
 3. Chapter 03 : Pembuatan Database + Readme [bobot 15]
 4. Chapter 04 : Codingan sesuai studi kasus (CRUD) + Readme [bobot 30]
